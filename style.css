@@ -1,0 +1,23 @@
+nav {
+    z-index: 1;
+}
+
+.text-shadow {
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
+.carousel-item {
+    height: 100vh;
+}
+
+.sort-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
